@@ -1,0 +1,24 @@
+{
+  "name": "random-str-beidou-msg",
+  "version": "1.0.0",
+  "description": "Random String Messages Console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKetchupp/random-str-beidou-msg.git"
+  },
+  "keywords": [],
+  "author": "Kevin Santiago <sonicthe1111@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrKetchupp/random-str-beidou-msg/issues"
+  },
+  "homepage": "https://github.com/MrKetchupp/random-str-beidou-msg#readme",
+  "bin": {
+    "random-str-beidou-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
